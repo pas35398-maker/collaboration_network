@@ -10,11 +10,11 @@
   "text": {
     "more": "",
     "intro": "",
-    "title": "Organization positioning network"
+    "title": "Collaboration Network"
   },
   "legend": {
-    "edgeLabel": "Topic positioning",
-    "colorLabel": "Organizations & Topics",
+    "edgeLabel": "Collaboration",
+    "colorLabel": "Country",
     "nodeLabel": "Organization"
   },
   "features": {
